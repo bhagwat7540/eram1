@@ -1,0 +1,28 @@
+.footer__main {
+  width: 90%;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer__sub {
+  background-color: #9d9ba3;
+  color: white;
+
+  align-items: center;
+  display: flex;
+}
+
+.footer__first {
+  text-align: left;
+  flex: 0.4;
+  margin: 10px 100px;
+}
+
+.footer__second {
+  text-align: left;
+  flex: 0.6;
+  margin-top: 0px;
+  margin-left: 70px;
+  margin-right: 120px;
+}

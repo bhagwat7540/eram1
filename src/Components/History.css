@@ -1,0 +1,37 @@
+.history__left {
+  background-color: #0a152b;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  border-bottom: 6px solid #800000;
+  text-align: left;
+  padding: 10px;
+  padding-left: 25px;
+}
+
+.history__left > h1 {
+  margin-left: 50px;
+}
+
+.history__right {
+  display: flex;
+  width: 75%;
+  margin: 50px auto;
+}
+
+.history__right1 {
+  flex: 0.5;
+}
+
+.history__right1 > p {
+  text-align: left;
+}
+
+.history__right2 {
+  flex: 0.5;
+}
+
+.history__right2 > img {
+  height: 320px;
+}

@@ -1,0 +1,44 @@
+.contact__bottom {
+  display: flex;
+  width: 75%;
+  margin: 40px auto;
+}
+
+.contact__bottom1 {
+  border: 15px solid green;
+  flex: 0.3;
+  padding: 30px;
+  color: green;
+  text-align: left;
+  font-weight: 500;
+}
+
+.contact__bottom1 > hr {
+  border-top: 5px solid black;
+  background-color: black;
+  width: 10%;
+}
+
+.contact__bottom2 {
+  margin-left: 25px;
+  flex: 0.7;
+  text-align: left;
+}
+
+.contact__input {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 90%;
+  padding: 23px;
+}
+
+.contact__bottom2 > button {
+  color: green;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 22%;
+  height: 13%;
+  font-size: 17px;
+}
